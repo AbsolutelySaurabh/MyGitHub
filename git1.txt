@@ -1,4 +1,18 @@
 This is the master branch.
 Hey,
+<<<<<<< HEAD
 I am branch,
 This is your github.
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+I am another github.
+
+=======
+I am anotherGithub , Meet me at another shop.
+>>>>>>> AnotherGithub
+=======
+I am branch,
+This is your github.
+>>>>>>> YourGithub
+>>>>>>> master
